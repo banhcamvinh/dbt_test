@@ -1,3 +1,3 @@
 select *
 from abc
- where xyz
+ where thanhdeptrai
